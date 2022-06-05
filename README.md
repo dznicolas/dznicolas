@@ -1,4 +1,4 @@
-Olá pessoal, eu me chamo Nicolas, estou me aperfeiçoando como Full Stack
+Hey, guys. My name is Nicolas, I started studying programming through a technician I did, I'm currently studying ADS and taking several courses to improve myself even more as a FullStack! 💻
 
 <div align="center">
     <a href="https://github.com/dznicolas">
@@ -6,7 +6,7 @@ Olá pessoal, eu me chamo Nicolas, estou me aperfeiçoando como Full Stack
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dznicolas&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
 
-## Tecnologias que utilizo e estudo atualmente
+## Technologies I currently use and study
 
  <div style="display: inline_block"><br/>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -18,7 +18,7 @@ Olá pessoal, eu me chamo Nicolas, estou me aperfeiçoando como Full Stack
     <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   </div>
           
-## Contatos
+## Contacts
 
  <a  target="_blank">
     <a href = "mailto:nicolasdzsilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,6 +26,4 @@ Olá pessoal, eu me chamo Nicolas, estou me aperfeiçoando como Full Stack
       </a>
 
   <div> 
-
-
   </div>
