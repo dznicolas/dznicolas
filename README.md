@@ -1,5 +1,5 @@
 # 💻 About Me:
-Hello! I'm Nicolas. 👋<br><br> I'm a Full Stack Developer with 2+ years of experience in web projects. I work with .NET C# (MVC), SQL Server, JavaScript, and other technologies, as well as API integrations and AWS infrastructure.<br><br> I have experience in developing and evolving platforms, always focusing on performance, usability, and efficient integrations. I hold a degree in Systems Analysis and Development and I'm constantly learning new technologies to improve the quality of the projects I work on. 🚀
+Hello! I'm Nicolas. 👋<br><br> I'm a Full Stack Developer with 3+ years of experience in web projects. I work with .NET C# (MVC), SQL Server, JavaScript, and other technologies, as well as API integrations and AWS infrastructure.<br><br> I have experience in developing and evolving platforms, always focusing on performance, usability, and efficient integrations. I hold a degree in Systems Analysis and Development and I'm constantly learning new technologies to improve the quality of the projects I work on. 🚀
 
 
 ## 🌐 Socials:
